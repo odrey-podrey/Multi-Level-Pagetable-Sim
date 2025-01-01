@@ -1,0 +1,7 @@
+Resources:
+1. posix_memalign error handling strategy:
+https://www.ibm.com/docs/en/zos/3.1.0?topic=functions-posix-memalign-reserve-aligned-storage-block 
+
+
+I would also like to thank the entire bag of Harris Teeter cheese popcorn I ate while doing this assignment.
+
